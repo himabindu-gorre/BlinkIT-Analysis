@@ -4,9 +4,11 @@ An interactive and data-driven dashboard created using Microsoft Power BI, desig
 ![image](https://github.com/user-attachments/assets/6cf7d5ac-04f0-41b9-8494-07c2d35b6176)
 
 🔍 Project Overview
+
 This project presents a comprehensive visual analysis of sales performance across various item types, outlet sizes, and customer tiers. It enables business stakeholders to quickly understand key trends, identify high-performing segments, and make data-backed decisions.
 
 🚀 Key Highlights
+
 💰 Total Sales: Analyzed over $1.20M in total sales.
 
 🛒 Number of Items: Visualized insights for 8,521 distinct items.
@@ -28,6 +30,7 @@ By Type: Supermarket (Types 1–3) and Grocery Stores.
 📈 Yearly Establishment Trend: Insights from 2011 to 2022, with a sales peak in 2018.
 
 🛠 Tech Stack & Tools
+
 Power BI: For interactive dashboards and reports.
 
 Power Query: For data cleaning and transformation.
@@ -37,6 +40,7 @@ DAX (Data Analysis Expressions): For creating custom KPIs and measures.
 UX/UI: Focused on intuitive design with slicers, bar charts, pie charts, and filters.
 
 💡 Learning & Impact
+
 Applied real-world data analytics practices in the retail/FMCG domain.
 
 Improved storytelling through clear visual communication.
